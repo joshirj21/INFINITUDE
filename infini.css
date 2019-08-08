@@ -139,3 +139,25 @@ width: fit-content;
 .jumbotron{
     background: #F7F7F7;
 }
+.card{
+    border:none;    
+}
+#globe{
+    font-size: 30px;
+    color: #F3A708;
+}
+.text-muted{
+    font-size: 16px;
+    font-weight: 400;
+}
+.bottom-block{
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/26-06-2019/demo_web_Free/1442588234/web/images/banner4.jpg");
+    height: 687px;
+}
+.bottom-block-clr{
+    background: rgb(10,10,10,0.67);
+    height: 687px;
+}
+/* .bottom-block-heading{
+
+} */
